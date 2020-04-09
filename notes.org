@@ -1,0 +1,48 @@
+* Purpose of this document
+
+This file documents all non-technic info related to the project
+
+
+* Team (on-going)
+
+** Anaïs hijos, data analyst at Amgen
+
+Highly likely our projet manager, taking
+charge of the database, the communication and the business model, 
+
+Connection in the healthcare sector.
+
+
+** Anne Nicole, Product Designer
+Currently working on another project:
+https://hackingcovid-19.slack.com/files/U011N9MRZEG/F011JAWDSBF/proposition_projet_hackaton_covi19_a._nicole_.pdf
+
+Her project may merge with another one https://coronastatus.fr/
+
+
+
+
+** Rishab Khincha, pre-final year student from India double majoring in Physics and Computer Science. 
+
+ Machine learning, Artificial Intelligence and open source python programming.
+
+
+
+** Victoire de Chabalier,   Master student working on Machine Learning and Data Science at Polytechnique and HEC
+
+To decide. Hope Victoire can join us. 
+
+
+** Mohd Adna, graduate student at University of Waterloo 
+
+Statistical Machine Learning, Probabilistic Deep Learning and its
+application in Vision. Also interested in Generative Modelling,
+Bayesian Deep Learning and Probabilistic Graphical Models.
+
+** Zhoulai Fu, Assistant Professor of Computer Science at IT University of Copenhagen, Denmark
+
+
+Software testing and analysis.  
+
+Call me "July". Ingineer d'Ecole Polytechnique et Telecom ParisTech. I
+owe to this country, deeply.
