@@ -1,22 +1,57 @@
 * Massive Coronavirus Testing via Deep Learning
 
 
-We all know that testing people for COVID-19 is of paramount importance for curbing the pandemic. A recent paper in Science [*] claims that substantial undocumented infection facilitates the rapid dissemination of the novel coronavirus. I believe we can build a web platform and use neural networks (NN) to help diagnose much of the undocumented infection. Below is a project idea, and I hope to team up with researchers and developers. In particular, I am looking for someone who has prior experience working on a project related to COVID-19, which would allow us to apply for the fast-grant.
-I am assistant prof. of Computer Science at IT University of Copenhagen, Denmark. Please let me know if you are interested in the project. Below is the idea:
+We all know that the COVID-19 pandemic is getting worse, the economy
+ is low, and people died. We may feel unable to do anything but follow
+ the government-issued guideline and pray. But I believe that we, as
+ researchers and developers in IT technologies, probably can make
+ contributions from our aspects to help curb the situation. Below is
+ the project idea. Whoever has the capability and ressource can work
+ with it -- we are working for the mankind.
 
-- We build a website, that is sufficiently appealing so that patients or suspect patients are willing to submit their data
-- We include in the database, for example, when people get a fever, their symptoms when they get a positive/negative test results when they get a full recovery.
-- We build a neural network to learn from data. The learned model from NN allows us to make a diagnose.
 
-To summarize: The platform has three parts, a website, a database, and a deep learning engine. Users of the platform are (suspected) patients and doctors. The diagnose can:
+A recent paper in Science [*] claims that substantial undocumented
+infection facilitates the rapid dissemination of the novel
+coronavirus. I believe we can build a web platform and use neural
+networks (NN) to help diagnose much of the undocumented infection.
+Below is a project idea, and I hope to team up with researchers and
+developers. In particular, I am looking for someone who has prior
+experience working on a project related to COVID-19, which would allow
+us to apply for the fast-grant. I am assistant prof. of Computer
+Science at IT University of Copenhagen, Denmark. Please let me know if
+you are interested in the project. Below is the idea:
 
-1.  give confidence to suspected patients -- the main reason they may want to submit data, as they can get a probability of their potential fallouts and compare with other people;  and
-2.  complement doctors' diagnose,  helping them to make informed decisions on whether they should test the patients, suggest self-isolation to the suspected patents etc.
+- We build a website, that is sufficiently appealing so that patients
+  or suspect patients are willing to submit their data
+- We include in the database, for example, when people get a fever,
+  their symptoms when they get a positive/negative test results when
+  they get a full recovery.
+- We build a neural network to learn from data. The learned model from
+  NN allows us to make a diagnose.
 
-The idea of applying deep learning for medical diagnosis is certainly not new; my knowledge on the subject is little. References include:
+To summarize: The platform has three parts, a website, a database, and
+a deep learning engine. Users of the platform are (suspected) patients
+and doctors. The diagnose can:
 
-- [*] Li, Ruiyun, et al. "Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)." Science (2020).
+1.  give confidence to suspected patients -- the main reason they may
+   want to submit data, as they can get a probability of their
+   potential fallouts and compare with other people; and
+2.  complement doctors' diagnose, helping them to make informed
+   decisions on whether they should test the patients, suggest
+   self-isolation to the suspected patents etc.
 
-- Bakator, Mihalj, and Dragica Radosav. "Deep learning and medical diagnosis: A review of literature." Multimodal Technologies and Interaction 2.3 (2018): 47.
+The idea of applying deep learning for medical diagnosis is certainly
+not new; my knowledge on the subject is little. References include:
 
-- Liu, Siqi, et al. "Early diagnosis of Alzheimer's disease with deep learning." 2014 IEEE 11th international symposium on biomedical imaging (ISBI). IEEE, 2014.
+- [*] Li, Ruiyun, et al. "Substantial undocumented infection
+  facilitates the rapid dissemination of novel coronavirus
+  (SARS-CoV2)." Science (2020).
+
+- Bakator, Mihalj, and Dragica Radosav. "Deep learning and medical
+  diagnosis: A review of literature." Multimodal Technologies and
+  Interaction 2.3 (2018): 47.
+
+- Liu, Siqi, et al. "Early diagnosis of Alzheimer's disease with deep
+  learning." 2014 IEEE 11th international symposium on biomedical
+  imaging (ISBI). IEEE, 2014.
+
