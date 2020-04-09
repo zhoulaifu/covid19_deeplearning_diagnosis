@@ -1,0 +1,22 @@
+* Diagnose COVID-19 with Deep Learning
+
+
+We all know that testing people for COVID-19 is of paramount importance for curbing the pandemic. A recent paper in Science [*] claims that substantial undocumented infection facilitates the rapid dissemination of the novel coronavirus. I believe we can build a web platform and use neural networks (NN) to help diagnose much of the undocumented infection. Below is a project idea, and I hope to team up with researchers and developers. In particular, I am looking for someone who has prior experience working on a project related to COVID-19, which would allow us to apply for the fast-grant.
+I am assistant prof. of Computer Science at IT University of Copenhagen, Denmark. Please let me know if you are interested in the project. Below is the idea:
+
+- We build a website, that is sufficiently appealing so that patients or suspect patients are willing to submit their data
+- We include in the database, for example, when people get a fever, their symptoms when they get a positive/negative test results when they get a full recovery.
+- We build a neural network to learn from data. The learned model from NN allows us to make a diagnose.
+
+To summarize: The platform has three parts, a website, a database, and a deep learning engine. Users of the platform are (suspected) patients and doctors. The diagnose can:
+
+1.  give confidence to suspected patients -- the main reason they may want to submit data, as they can get a probability of their potential fallouts and compare with other people;  and
+2.  complement doctors' diagnose,  helping them to make informed decisions on whether they should test the patients, suggest self-isolation to the suspected patents etc.
+
+The idea of applying deep learning for medical diagnosis is certainly not new; my knowledge on the subject is little. References include:
+
+- [*] Li, Ruiyun, et al. "Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)." Science (2020).
+
+- Bakator, Mihalj, and Dragica Radosav. "Deep learning and medical diagnosis: A review of literature." Multimodal Technologies and Interaction 2.3 (2018): 47.
+
+- Liu, Siqi, et al. "Early diagnosis of Alzheimer's disease with deep learning." 2014 IEEE 11th international symposium on biomedical imaging (ISBI). IEEE, 2014.
