@@ -1,4 +1,4 @@
-* Diagnose COVID-19 with Deep Learning
+* Diagnosing COVID-19 with Deep Learning
 
 
 We all know that testing people for COVID-19 is of paramount importance for curbing the pandemic. A recent paper in Science [*] claims that substantial undocumented infection facilitates the rapid dissemination of the novel coronavirus. I believe we can build a web platform and use neural networks (NN) to help diagnose much of the undocumented infection. Below is a project idea, and I hope to team up with researchers and developers. In particular, I am looking for someone who has prior experience working on a project related to COVID-19, which would allow us to apply for the fast-grant.
