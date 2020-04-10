@@ -1,4 +1,4 @@
-* Massive Coronavirus Testing via Deep Learning
+* Massive Coronavirus Diagnosing via Deep Learning
 
 
 We all know that the COVID-19 pandemic is getting worse, the economy
