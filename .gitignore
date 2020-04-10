@@ -1,0 +1,15 @@
+#emacs-related
+
+
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+#private info
+
+private*
