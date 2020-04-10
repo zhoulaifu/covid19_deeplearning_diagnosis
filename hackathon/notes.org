@@ -58,11 +58,11 @@ the initial data
 
 Currently, we have:
 
-- Anaïs hijos, data analyst at Amagen. Anais is our project
+- Anaïs hijos, data analyst at Amgen. Anais is our project
   manager. She will also take charge of the database, the
   communication and the business
 model. Anais has strong connection in the healthcare sector.
-- Anne Nicole, Product Designer. Anne will contribute to the
+- Anne Nicole, product designer. Anne will contribute to the
   web-design:
 [[[[https://hackingcovid-19.slack.com/files/U011N9MRZEG/F011JAWDSBF/proposition_projet_hackaton_covi19_a._nicole_.pdf]]]].
 - Rishab Khincha, pre-final year student from India double majoring in
@@ -79,5 +79,22 @@ application in Vision.
 
 
 
-* Actions to come
+* Problems to solve
+
+** Website
+We need to show a preliminary website and argue for the design
+choices. Two things are the most important above all.
+-  the kind of data we need to collect
+-  how we take care of privacy concerns
+
+** Data
+We need to consider 
+- how the data should be stored. E.g. place of storage and format
+
+** Deep Learning
+We need to consider
+- What we can do at the very beginning as few data are available.
+
+ 
+
 
