@@ -58,7 +58,7 @@ the initial data
 
 Currently, we have:
 
-- naïs hijos, data analyst at Amagen. Anais is our project
+- Anaïs hijos, data analyst at Amagen. Anais is our project
   manager. She will also take charge of the database, the
   communication and the business
 model. Anais has strong connection in the healthcare sector.
@@ -69,7 +69,7 @@ model. Anais has strong connection in the healthcare sector.
   Physics and Computer Science.  Rishab's expertise lies in Machine
   learning, Artificial Intelligence and open source python
   programming.
-- Mohd Adna, graduate student at University of Waterloo. Mohd's
+- Adnan Mohd, graduate student at University of Waterloo. Mohd's
   expertise lies in Statistical Machine Learning, Probabilistic Deep
   Learning and its
 application in Vision. 
@@ -80,3 +80,4 @@ application in Vision.
 
 
 * Actions to come
+
