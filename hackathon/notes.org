@@ -8,14 +8,14 @@ researcher on IT, product design, data analysis and biotech, that we
 can make contributions from our aspects to help the people to curb the
 pandemic situation.
 
-Our goal of this Hackaton is to develop a prototype for our massive
-coronavirus diagnosing via deep learning project. Later, we want to
-apply for fundings, e.g. fast-grant [https://fastgrants.org/] for
-improving the project.  Ultimately, we hope to develpe a software and
-data platform that will be widely used by ordinarly people around the
-world, as an accurate, cost-effective, and easy-to-use software
-platform that can accurately diagnose the COVID-19 virus and
-complements doctors' diagonsis and testing.
+Our goal of this Hackaton is to develop a prototype for massive
+coronavirus diagnosing via deep learning. Later, we want to apply for
+fundings, e.g. fast-grant [https://fastgrants.org/] for improving the
+project.  Ultimately, we hope to develop a software and data platform
+that will be widely used by ordinarly people around the world, as an
+accurate, cost-effective, and easy-to-use solution that can accurately
+diagnose the COVID-19 virus and complement doctors' diagonsis and
+testing.
 
 We plan to:
 
