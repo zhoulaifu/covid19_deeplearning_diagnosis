@@ -6,9 +6,8 @@ We all know that the COVID-19 pandemic is getting worse, the economy
  the government-issued guideline and pray. But I believe that we, as
  researchers and developers in IT technologies, probably can make
  contributions from our aspects to help curb the situation. Below is
- the project idea. Whoever has the capability and ressource can work
- with it -- we are working for the mankind.
-
+ the project idea. Whoever has the capability and ressource should try 
+ to work it out. 
 
 A recent paper in Science [*] claims that substantial undocumented
 infection facilitates the rapid dissemination of the novel
