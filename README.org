@@ -34,4 +34,3 @@ developed an AI-based corona diagnosing that can listen to coughing
 and indicate whether the patient has COVID-19. The app has an accuracy
 rate of 70%. Perhaps, the accuracy can be enhanced with the data we
 would ask users to submit to the web platform.
-
