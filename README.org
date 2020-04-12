@@ -1,57 +1,37 @@
-* Massive Coronavirus Diagnosing via Deep Learning
+* Massive and Accurate Coronavirus Diagnosing via Machine Learning
 
+Humankind is facing an unprecedented disaster. I believe that we, as
+IT professionals, should act to help curb the pandemic. Below is a
+project idea. I invite anyone with the needed capabilities and
+resources to try it out.
 
-We all know that the COVID-19 pandemic is getting worse, the economy
- is low, and people died. We may feel unable to do anything but follow
- the government-issued guideline and pray. But I believe that we, as
- researchers and developers in IT technologies, probably can make
- contributions from our aspects to help curb the situation. Below is
- the project idea. Whoever has the capability and ressource can work
- with it -- we are working for the mankind.
+First, we design a web platform, a website or an app, to allow people
+to update their symptoms continuously. Global Initiatives such as
+https://coronastatus.us and https://coronastatus.fr enable people to
+report their health condition related to the virus anonymously. Such
+websites are useful for the government to predict the corona spread,
+but for diagnosing, we probably need refined information. Any info
+that would help a physician is helpful, e.g., "day 1 – I got a sore
+throat; day 2 – I got a dry cough; day 3 – My body temperatures is 38
+degrees." The web platform should also allow people to input CT scans,
+blood tests, or coughing sounds, etc.
 
+Then, we learn from the data via artificial intelligence, e.g., by
+building neural networks. The learned model allows us to make a
+diagnose. People will be motivated to use such a platform if they can
+be provided a free diagnosis that complement doctors' decisions. I
+expect that the diagnosis can be highly accurate once a large amount
+of data has been collected. As an example, AI models already detect
+cardiovascular disease with a success rate of 98.5%, outperforming
+cardiologists.
 
-A recent paper in Science [*] claims that substantial undocumented
-infection facilitates the rapid dissemination of the novel
-coronavirus. I believe we can build a web platform and use neural
-networks (NN) to help diagnose much of the undocumented infection.
-Below is a project idea, and I hope to team up with researchers and
-developers. In particular, I am looking for someone who has prior
-experience working on a project related to COVID-19, which would allow
-us to apply for the fast-grant. I am assistant prof. of Computer
-Science at IT University of Copenhagen, Denmark. Please let me know if
-you are interested in the project. Below is the idea:
-
-- We build a website, that is sufficiently appealing so that patients
-  or suspect patients are willing to submit their data
-- We include in the database, for example, when people get a fever,
-  their symptoms when they get a positive/negative test results when
-  they get a full recovery.
-- We build a neural network to learn from data. The learned model from
-  NN allows us to make a diagnose.
-
-To summarize: The platform has three parts, a website, a database, and
-a deep learning engine. Users of the platform are (suspected) patients
-and doctors. The diagnose can:
-
-1.  give confidence to suspected patients -- the main reason they may
-   want to submit data, as they can get a probability of their
-   potential fallouts and compare with other people; and
-2.  complement doctors' diagnose, helping them to make informed
-   decisions on whether they should test the patients, suggest
-   self-isolation to the suspected patents etc.
-
-The idea of applying deep learning for medical diagnosis is certainly
-not new; my knowledge on the subject is little. References include:
-
-- [*] Li, Ruiyun, et al. "Substantial undocumented infection
-  facilitates the rapid dissemination of novel coronavirus
-  (SARS-CoV2)." Science (2020).
-
-- Bakator, Mihalj, and Dragica Radosav. "Deep learning and medical
-  diagnosis: A review of literature." Multimodal Technologies and
-  Interaction 2.3 (2018): 47.
-
-- Liu, Siqi, et al. "Early diagnosis of Alzheimer's disease with deep
-  learning." 2014 IEEE 11th international symposium on biomedical
-  imaging (ISBI). IEEE, 2014.
+Related to this project, Hospital Israelita Albert Einstein in Brazil
+applied AI to diagnose COVID-19 cases based on data from 235
+patients. Most likely, their results can be improved with data
+collected from the web platform data, and in fact, hospital-provided
+and web data should merge for synergies. EPFL researchers have
+developed an AI-based corona diagnosing that can listen to coughing
+and indicate whether the patient has COVID-19. The app has an accuracy
+rate of 70%. Perhaps, the accuracy can be enhanced with the data we
+would ask users to submit to the web platform.
 
